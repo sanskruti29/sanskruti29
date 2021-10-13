@@ -1,4 +1,7 @@
-### Hi there 👋
+### Sanskruti Kolpe 👋
+
+![cover](https://user-images.githubusercontent.com/46795773/137225244-7545d3dd-34fd-47a1-97aa-04353211980f.png)
+
 
 <!--
 **sanskruti29/sanskruti29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
