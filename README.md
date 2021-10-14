@@ -38,6 +38,6 @@
 ----------------------------------------------------------------------------------------------------------------
 
 ## Connect with me:
-<a href ="https://twitter.com/CultureCoder"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
-<a href ="https://www.linkedin.com/in/sanskruti-kolpe"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
-<a href ="sanskruti2489@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
+<a href="https://twitter.com/CultureCoder"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/sanskruti-kolpe"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+<a href="mailto:sanskruti2489@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
