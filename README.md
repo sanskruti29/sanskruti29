@@ -1,4 +1,7 @@
 # Sanskruti Kolpe  <img src="https://img.icons8.com/emoji/40/000000/woman-technologyst.png"/> 
+```
+Actively looking for Software Developer roles 
+```
 
 ![cover2](https://user-images.githubusercontent.com/46795773/137226214-595c8712-a329-4c06-a11d-70bb92f26ef4.png)
 
@@ -18,16 +21,10 @@
 ----------------------------------------------------------------------------------------------------------------
 ## Technologies I use:
 
-<img src="https://img.icons8.com/color/60/000000/html-5--v2.png"/> <img src="https://img.icons8.com/color/60/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v2.png"/>
-<img src="https://img.icons8.com/color/60/000000/spring-logo.png"/> 
-<img src="https://img.icons8.com/color/60/000000/nodejs.png"/> 
-<img src="https://img.icons8.com/office/60/000000/react.png"/>
-<img src="https://img.icons8.com/color/60/000000/docker.png"/>
-<img src="https://img.icons8.com/color/60/000000/kubernetes.png"/>
-<img src="https://img.icons8.com/color/60/000000/google-cloud.png"/>
-
+```
+Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, SQL/NoSQL, Google Cloud, Kubernetes, Docker,
+Spring Boot, React Native
+```
 ----------------------------------------------------------------------------------------------------------------
 
 ## Work Links:
