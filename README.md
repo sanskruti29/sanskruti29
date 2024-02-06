@@ -1,6 +1,6 @@
 # Sanskruti Kolpe  <img src="https://img.icons8.com/emoji/40/000000/woman-technologyst.png"/> 
 ```
-Actively looking for Software Developer roles 
+Software Developer
 ```
 
 ![cover2](https://user-images.githubusercontent.com/46795773/137226214-595c8712-a329-4c06-a11d-70bb92f26ef4.png)
